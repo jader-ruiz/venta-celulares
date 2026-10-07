@@ -1,0 +1,25 @@
+# Java build output
+bin/
+lib/
+out/
+target/
+build/
+*.class
+
+# Logs
+*.log
+
+# IDE metadata
+.idea/
+.eclipse/
+.metadata/
+.classpath
+.project
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Vs
+.vscode/
